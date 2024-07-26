@@ -131,7 +131,7 @@
     "nullthrows": "^1.1.1",
     "pretty-format": "^26.5.2",
     "promise": "^8.3.0",
-    "react-devtools-core": "^4.26.1",
+    "react-devtools-core": "^4.28.4",
     "react-native-gradle-plugin": "^0.72.0",
     "react-refresh": "^0.4.0",
     "react-shallow-renderer": "^16.15.0",
