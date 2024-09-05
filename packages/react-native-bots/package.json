@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "@octokit/rest": "^18.12.0",
-    "firebase": "^9.6.5"
+    "firebase": "^10.2.0"
   }
 }
